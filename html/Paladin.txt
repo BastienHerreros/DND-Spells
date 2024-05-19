@@ -1,0 +1,50 @@
+Aide
+Appel de destrier
+Appel de destrier supérieur
+Arme élémentaire
+Arme magique
+Arme sacrée
+Aura de pureté
+Aura de vie
+Aura de vitalité
+Aura du croisé
+Bannissement
+Bénédiction
+Bouclier de la foi
+Cercle de pouvoir
+Cercle magique
+Cérémonie
+Châtiment aveuglant
+Châtiment calcinant
+Châtiment courroucé
+Châtiment débilitant
+Châtiment du ban
+Châtiment révélateur
+Châtiment tonitruant
+Convocation de céleste
+Création de nourriture et d'eau
+Délivrance des malédictions
+Détection de la magie
+Détection du mal et du bien
+Détection du poison et des maladies
+Dissipation de la magie
+Dissipation du mal et du bien
+Duel forcé
+Faveur divine
+Héroïsme
+Injonction
+Localisation d'objet
+Localisation de créature
+Lumière du jour
+Protection contre la mort
+Protection contre le mal et le bien
+Protection contre le poison
+Purification de nourriture et d'eau
+Quête
+Rappel à la vie
+Restauration partielle
+Retour à la vie
+Soins
+Vague destructrice
+Voile spirituel
+Zone de vérité

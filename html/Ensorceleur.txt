@@ -1,0 +1,206 @@
+Absorption des éléments
+Agrandissement/Rapetissement
+Amélioration de caractéristique
+Amélioration de compétences
+Amis
+Animation d'objets
+Apparence trompeuse
+Armure de mage
+Arrêt du temps
+Aspersion d'acide
+Attraction terrestre
+Bannissement
+Barbes argentées
+Bouclier
+Bouclier de platine de Fizban
+Bouffée de poison
+Boule de feu
+Boule de feu à retardement
+Bourrasque
+Brume mortelle
+Catapulte
+Cécité/Surdité
+Cercle de mort
+Cercle de téléportation
+Chaîne d'éclairs
+Changement de plan
+Charme-monstre
+Charme-personne
+Clairvoyance
+Clignotement
+Compréhension des langues
+Cône de froid
+Confusion
+Contact glacial
+Contresort
+Contrôle des flammes
+Contrôle des vents
+Convocation d'esprit draconique
+Costume d'Outremonde de Tasha
+Couleurs dansantes
+Coup au but
+Coup de tonnerre
+Couronne d'étoiles
+Couronne du dément
+Couteau de glace
+Création
+Déblocage
+Déguisement
+Désintégration
+Détection de la magie
+Détection des pensées
+Dispersion
+Dissipation de la magie
+Doigt de mort
+Domination de bête
+Domination de monstre
+Domination de personne
+Don des langues
+Éclair
+Éclair de chaos
+Éclat du soleil
+Embrasement
+Énervation
+Ennemis à foison
+Entraves de givre
+Épine mentale
+Éruption de lames
+Éruption de terre
+Espièglerie de Nathair
+Façonnage de l'eau
+Façonnage de la terre
+Ferrage foudroyant
+Feuille morte
+Flambée d'Aganazzar
+Fléau d'insectes
+Flèches enflammées
+Flétrissement
+Flétrissure épouvantable d'Abi-Dalzim
+Flou
+Force fantasmagorique
+Forme éthérée
+Forme gazeuse
+Forteresse d'intellect
+Fouet mental de Tasha
+Foulée brumeuse
+Foulée d'Ashardalon
+Foulée dimensionnelle
+Foulée tonitruante
+Fracassement
+Gelure
+Globe d'invulnérabilité
+Hâte
+Hurlement psychique
+Illusion mineure
+Image majeure
+Image miroir
+Image silencieuse
+Immobilisation de monstre
+Immobilisation de personne
+Immolation
+Infestation
+Inversion de la gravité
+Invisibilité
+Invisibilité supérieure
+Lame aux flammes vertes
+Lame d'ombres
+Lame du désastre
+Lame retentissante
+Lance d'arçon psychique de Raulothim
+Lenteur
+Lévitation
+Lumière
+Lumière du jour
+Lumières dansantes
+Main de mage
+Mains brûlantes
+Marche sur l'eau
+Mauvais oeil
+Message
+Métamorphose
+Métamorphose de groupe
+Minuscules météores de Melf
+Mixture caustique de Tasha
+Modification d'apparence
+Mot de pouvoir douloureux
+Mot de pouvoir étourdissant
+Mot de pouvoir mortel
+Motif hypnotique
+Mur d'eau
+Mur de feu
+Mur de lumière
+Mur de pierre
+Nappe de brouillard
+Nuage incendiaire
+Nuage nauséabond
+Nuée de boules de neige de Snilloc
+Nuée de dagues
+Nuée de météores
+Orbe chromatique
+Pattes d'araignée
+Peau de pierre
+Perturbations synaptiques
+Peur
+Piqûre mentale
+Poigne électrique
+Poigne terreuse de Maximilien
+Portail
+Portail magique
+Porte dimensionnelle
+Prestidigitation
+Prison mentale
+Projectile élémentaire
+Projectile magique
+Protection contre les armes
+Protection contre une énergie
+Pyrotechnie
+Rayon ardent
+Rayon de givre
+Rayon de soleil
+Rayon empoisonné
+Rayonnement écoeurant
+Rayons prismatiques
+Raz-de-marée
+Réparation
+Repli expéditif
+Respiration aquatique
+Sacre de la glace
+Sacre de la pierre
+Sacre des flammes
+Sacre du vent
+Saut
+Saute de vent
+Scellé de portail
+Secousse sismique
+Sens de la distorsion
+Sieste
+Simulacre de vie
+Sommeil
+Songe du voile bleu
+Souffle du dragon
+Souhait
+Sphère aqueuse
+Sphère de tempête
+Sphère de vitriol
+Suggestion
+Suggestion de groupe
+Télékinésie
+Téléportation
+Tempête de feu
+Tempête de grêle
+Tempête de neige
+Ténèbres
+Terraformage
+Toile d'araignée
+Tourbillon
+Tourbillon de poussière
+Trait de feu
+Trait ensorcelé
+Transformation draconique
+Tremblement de terre
+Vague tonnante
+Vent protecteur
+Vision dans le noir
+Vision suprême
+Voir l'invisible
+Vol

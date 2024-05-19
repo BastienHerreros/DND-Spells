@@ -1,0 +1,324 @@
+Absorption des éléments
+Agrandissement/Rapetissement
+Alarme
+Amélioration de compétences
+Amis
+Animation d'objets
+Animation des morts
+Antidétection
+Apparence trompeuse
+Appel de familier
+Arme magique
+Armure de mage
+Arrêt du temps
+Aspersion d'acide
+Assassin imaginaire
+Assignation infernale
+Attraction terrestre
+Aube
+Aura magique de Nystul
+Aversion/Attirance
+Bannissement
+Barbes argentées
+Bouche magique
+Bouclier
+Bouclier de feu
+Bouclier de platine de Fizban
+Bouffée de poison
+Boule de feu
+Boule de feu à retardement
+Bourrasque
+Brume mortelle
+Cage de force
+Cage des âmes
+Catapulte
+Cécité/Surdité
+Cercle de mort
+Cercle de téléportation
+Cercle magique
+Chaîne d'éclairs
+Champ antimagie
+Changement de forme
+Changement de plan
+Charme-monstre
+Charme-personne
+Chien de garde de Mordenkainen
+Clairvoyance
+Clignotement
+Clone
+Coffre secret de Léomund
+Collet
+Communication à distance
+Compréhension des langues
+Cône de froid
+Confusion
+Contact avec un autre plan
+Contact glacial
+Contrat
+Contresort
+Contrôle de l'eau
+Contrôle des flammes
+Contrôle des vents
+Contrôle du climat
+Convocation d'aberration
+Convocation d'artificiel
+Convocation d'élémentaire
+Convocation d'esprit draconique
+Convocation de démon majeur
+Convocation de démons mineurs
+Convocation de fée
+Convocation de fiélon
+Convocation de mort-vivant
+Convocation de rejeton d'ombre
+Convocations instantanées de Drawmij
+Corde enchantée
+Costume d'Outremonde de Tasha
+Couleurs dansantes
+Coup au but
+Coup de tonnerre
+Couronne d'étoiles
+Couronne du dément
+Couteau de glace
+Création
+Création d'homoncule
+Création de mort-vivant
+Danse irrésistible d'Otto
+Danse macabre
+Déblocage
+Dédale
+Déguisement
+Délivrance des malédictions
+Déluge d'énergie négative
+Demi-plan
+Désintégration
+Détection de la magie
+Détection des pensées
+Dispersion
+Disque flottant de Tenser
+Dissimulation
+Dissipation de la magie
+Doigt de mort
+Domination de monstre
+Domination de personne
+Don des langues
+Double illusoire
+Dragon illusoire
+Éclair
+Éclat du soleil
+Embrasement
+Emprisonnement
+Énervation
+Ennemi subconscient
+Ennemis à foison
+Entraves de givre
+Épée de Mordenkainen
+Épine mentale
+Éruption de lames
+Éruption de terre
+Espièglerie de Nathair
+Esprit faible
+Esprit impénétrable
+Fabrication
+Façonnage de l'eau
+Façonnage de la pierre
+Façonnage de la terre
+Ferrage foudroyant
+Feuille morte
+Flambée d'Aganazzar
+Flamme éternelle
+Fléau élémentaire
+Flèche acide de Melf
+Flèches enflammées
+Flétrissement
+Flétrissure épouvantable d'Abi-Dalzim
+Flou
+Force fantasmagorique
+Forme éthérée
+Forme gazeuse
+Forteresse d'intellect
+Forteresse majestueuse
+Fou rire de Tasha
+Fouet mental de Tasha
+Foulée brumeuse
+Foulée d'Ashardalon
+Foulée dimensionnelle
+Foulée tonitruante
+Fracassement
+Frappe du vent d'acier
+Frayeur
+Gelure
+Glas
+Globe d'invulnérabilité
+Glyphe de protection
+Graisse
+Grande foulée
+Hâte
+Hurlement psychique
+Identification
+Illusion mineure
+Illusion programmée
+Image majeure
+Image miroir
+Image silencieuse
+Immobilisation de monstre
+Immobilisation de personne
+Immolation
+Infestation
+Inversion de la gravité
+Invisibilité
+Invisibilité supérieure
+Invocation d'élémentaire
+Invocation d'élémentaires mineurs
+Invocation d'ombres
+Invulnérabilité
+Lame aux flammes vertes
+Lame d'ombres
+Lame du désastre
+Lame retentissante
+Lance d'arçon psychique de Raulothim
+Lenteur
+Lévitation
+Libellé aérien
+Lien télépathique de Rary
+Localisation d'objet
+Localisation de créature
+Lumière
+Lumières dansantes
+Main de Bigby
+Main de mage
+Mains brûlantes
+Malédiction
+Manoir somptueux de Mordenkainen
+Mauvais oeil
+Message
+Métamorphose
+Métamorphose de groupe
+Métamorphose suprême
+Minuscules météores de Melf
+Mirage
+Mixture caustique de Tasha
+Modification d'apparence
+Modification de mémoire
+Monture fantôme
+Mort simulée
+Mot de pouvoir douloureux
+Mot de pouvoir étourdissant
+Mot de pouvoir mortel
+Motif hypnotique
+Mur d'eau
+Mur de feu
+Mur de force
+Mur de glace
+Mur de lumière
+Mur de pierre
+Mur de sable
+Mur prismatique
+Mythes et légendes
+Nappe de brouillard
+Nuage incendiaire
+Nuage nauséabond
+Nuée de boules de neige de Snilloc
+Nuée de dagues
+Nuée de météores
+Oeil magique
+Orbe chromatique
+Passe-muraille
+Pattes d'araignée
+Peau de pierre
+Perturbations synaptiques
+Petite hutte de Léomund
+Pétrification
+Peur
+Piqûre mentale
+Poigne électrique
+Poigne terreuse de Maximilien
+Portail
+Portail magique
+Porte dimensionnelle
+Prémonition
+Préservation des morts
+Prestidigitation
+Prévoyance
+Prison mentale
+Projectile élémentaire
+Projectile magique
+Projection astrale
+Projection d'image
+Protection contre le mal et le bien
+Protection contre les armes
+Protection contre une énergie
+Protections et sceaux
+Pyrotechnie
+Quête
+Rayon affaiblissant
+Rayon ardent
+Rayon de givre
+Rayon de soleil
+Rayon empoisonné
+Rayonnement écoeurant
+Rayons prismatiques
+Raz-de-marée
+Réparation
+Repli expéditif
+Respiration aquatique
+Sacre de la glace
+Sacre de la pierre
+Sacre des flammes
+Sacre du vent
+Sanctuaire privé de Mordenkainen
+Saut
+Saute de vent
+Scellé de portail
+Scrutation
+Secousse sismique
+Sens de la distorsion
+Serviteur invisible
+Serviteur miniature
+Sieste
+Simulacre
+Simulacre de vie
+Sommeil
+Songe
+Songe du voile bleu
+Souffle du dragon
+Souhait
+Sphère aqueuse
+Sphère de feu
+Sphère de tempête
+Sphère de vitriol
+Sphère glaciale d'Otiluke
+Sphère résiliente d'Otiluke
+Suggestion
+Suggestion de groupe
+Symbole
+Télékinésie
+Télépathie
+Téléportation
+Tempête de grêle
+Tempête de neige
+Ténèbres
+Ténèbres oppressantes
+Tentacules noirs d'Evard
+Terraformage
+Terrain hallucinatoire
+Texte illusoire
+Toile d'araignée
+Toucher du vampire
+Tourbillon
+Tourbillon de poussière
+Trait de feu
+Trait ensorcelé
+Transfert de vie
+Transformation de Tenser
+Transformation draconique
+Transmutation de la pierre
+Urne magique
+Vague tonnante
+Vent protecteur
+Vents contraires
+Verrou magique
+Vision dans le noir
+Vision suprême
+Voile spirituel
+Voir l'invisible
+Vol

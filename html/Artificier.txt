@@ -1,0 +1,96 @@
+Absorption des éléments
+Agrandissement/Rapetissement
+Aide
+Alarme
+Amélioration de caractéristique
+Amélioration de compétences
+Animation d'objets
+Arme élémentaire
+Arme magique
+Aspersion d'acide
+Assistance
+Bouche magique
+Bouffée de poison
+Catapulte
+Chien de garde de Mordenkainen
+Clignotement
+Coffre secret de Léomund
+Collet
+Convocation d'artificiel
+Corde enchantée
+Coup de tonnerre
+Création
+Création de nourriture et d'eau
+Déguisement
+Détection de la magie
+Dissipation de la magie
+Embrasement
+Éruption de lames
+Fabrication
+Façonnage de la pierre
+Ferrage foudroyant
+Feuille morte
+Flamme éternelle
+Fléau élémentaire
+Flèches enflammées
+Flou
+Forteresse d'intellect
+Fouet épineux
+Foulée d'Ashardalon
+Gelure
+Glyphe de protection
+Graisse
+Grande foulée
+Hâte
+Identification
+Invisibilité
+Lame aux flammes vertes
+Lame retentissante
+Lévitation
+Libellé aérien
+Liberté de mouvement
+Lueurs féeriques
+Lumière
+Lumières dansantes
+Main de Bigby
+Main de mage
+Marche sur l'eau
+Message
+Métal brûlant
+Mixture caustique de Tasha
+Modification d'apparence
+Mur de pierre
+Oeil magique
+Pattes d'araignée
+Peau de pierre
+Pierre magique
+Poigne électrique
+Prestidigitation
+Protection contre le poison
+Protection contre une énergie
+Purification de nourriture et d'eau
+Pyrotechnie
+Rayon de givre
+Réparation
+Repli expéditif
+Résistance
+Respiration aquatique
+Restauration partielle
+Restauration supérieure
+Retour à la vie
+Sanctuaire
+Sanctuaire privé de Mordenkainen
+Saut
+Serviteur miniature
+Sieste
+Simulacre de vie
+Soins
+Sphère résiliente d'Otiluke
+Stabilisation
+Toile d'araignée
+Trait de feu
+Transmutation de la pierre
+Verrou magique
+Vision dans le noir
+Voir l'invisible
+Vol

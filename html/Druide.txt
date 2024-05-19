@@ -1,0 +1,156 @@
+Absorption des éléments
+Amélioration de caractéristique
+Amitié avec les animaux
+Appel de la foudre
+Assistance
+Attraction terrestre
+Aversion/Attirance
+Baies nourricières
+Bosquet des druides
+Bouffée de poison
+Bourrasque
+Changement de forme
+Changement de plan
+Charme-monstre
+Charme-personne
+Collet
+Communication avec les animaux
+Communication avec les plantes
+Communion avec la nature
+Confusion
+Contagion
+Contrat
+Contrôle de l'eau
+Contrôle des flammes
+Contrôle des vents
+Contrôle du climat
+Convocation d'élémentaire
+Convocation d'esprit draconique
+Convocation de bête
+Convocation de fée
+Coquille antivie
+Coup de tonnerre
+Couteau de glace
+Création ou destruction d'eau
+Croissance d'épines
+Croissance végétale
+Détection de la magie
+Détection du poison et des maladies
+Dissipation de la magie
+Domination de bête
+Druidisme
+Éclat du soleil
+Embrasement
+Enchevêtrement
+Éruption de terre
+Esprit faible
+Esprit guérisseur
+Éveil
+Façonnage de l'eau
+Façonnage de la pierre
+Façonnage de la terre
+Festin des héros
+Flammes
+Fléau d'insectes
+Fléau élémentaire
+Flèches enflammées
+Flétrissement
+Formes animales
+Fouet épineux
+Fureur de la nature
+Fusion dans la pierre
+Gardien de la nature
+Gelure
+Gourdin magique
+Grande foulée
+Guérison
+Immobilisation de personne
+Infestation
+Insecte géant
+Inversion de la gravité
+Invocation d'animaux
+Invocation d'élémentaire
+Invocation d'élémentaires mineurs
+Invocation d'êtres sylvestres
+Invocation de fée
+Lame de feu
+Liane avide
+Libellé aérien
+Liberté de mouvement
+Lien avec une bête
+Localisation d'animaux ou de plantes
+Localisation d'objet
+Localisation de créature
+Lueurs féeriques
+Lumière du jour
+Maelström
+Marche sur l'eau
+Marche sur le vent
+Messager animal
+Métal brûlant
+Métamorphose
+Mirage
+Mort simulée
+Mot de guérison
+Mur d'eau
+Mur d'épines
+Mur de feu
+Mur de pierre
+Mur de vent
+Nappe de brouillard
+Ossements de la Terre
+Passage par les arbres
+Passage sans trace
+Peau d'écorce
+Peau de pierre
+Pierre magique
+Prémonition
+Protection contre le poison
+Protection contre une énergie
+Protection primordiale
+Purification de nourriture et d'eau
+Quête
+Rayon de lune
+Rayon de soleil
+Raz-de-marée
+Régénération
+Réincarnation
+Réparation
+Résistance
+Respiration aquatique
+Restauration partielle
+Restauration supérieure
+Résurrection suprême
+Sacre de la glace
+Sacre de la pierre
+Sacre des flammes
+Sacre du vent
+Saut
+Saute de vent
+Sauvagerie primitive
+Scrutation
+Secousse sismique
+Sens animal
+Sens de l'orientation
+Sens des pièges
+Soins
+Soins de groupe
+Sphère aqueuse
+Sphère de feu
+Tempête de feu
+Tempête de grêle
+Tempête de neige
+Tempête vengeresse
+Terraformage
+Terrain hallucinatoire
+Tourbillon
+Tourbillon de poussière
+Transformation draconique
+Transmutation de la pierre
+Tremblement de terre
+Tsunami
+Vague tonnante
+Vent protecteur
+Vents contraires
+Vision dans le noir
+Voie végétale

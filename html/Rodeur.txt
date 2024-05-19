@@ -1,0 +1,59 @@
+Absorption des éléments
+Alarme
+Amitié avec les animaux
+Antidétection
+Baies nourricières
+Carquois magique
+Collet
+Communication avec les animaux
+Communication avec les plantes
+Communion avec la nature
+Convocation d'élémentaire
+Convocation de bête
+Convocation de fée
+Cordon de flèches
+Croissance d'épines
+Croissance végétale
+Détection de la magie
+Détection du poison et des maladies
+Esprit guérisseur
+Flèche de foudre
+Flèches enflammées
+Foulée d'Ashardalon
+Frappe du vent d'acier
+Frappe du zéphyr
+Frappe piégeuse
+Fureur de la nature
+Gardien de la nature
+Grande foulée
+Grêle d'épines
+Invocation d'animaux
+Invocation d'êtres sylvestres
+Invocation de projectiles
+Invocation de volée
+Liane avide
+Liberté de mouvement
+Lien avec une bête
+Localisation d'animaux ou de plantes
+Localisation d'objet
+Localisation de créature
+Lumière du jour
+Marche sur l'eau
+Marque du chasseur
+Messager animal
+Mur de vent
+Nappe de brouillard
+Passage par les arbres
+Passage sans trace
+Peau d'écorce
+Peau de pierre
+Protection contre le poison
+Protection contre une énergie
+Respiration aquatique
+Restauration partielle
+Saut
+Sens animal
+Sens des pièges
+Silence
+Soins
+Vision dans le noir

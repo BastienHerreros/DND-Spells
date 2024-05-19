@@ -1,0 +1,115 @@
+Aide
+Allié planaire
+Amélioration de caractéristique
+Animation des morts
+Apaisement des émotions
+Arme sacrée
+Arme spirituelle
+Assistance
+Aube
+Augure
+Aura sacrée
+Bannissement
+Barrière de lames
+Bénédiction
+Blessure
+Bouclier de la foi
+Cécité/Surdité
+Cercle magique
+Cérémonie
+Champ antimagie
+Changement de plan
+Clairvoyance
+Colonne de flamme
+Communication à distance
+Communication avec les morts
+Communion
+Contagion
+Contamination
+Contrat
+Contrôle de l'eau
+Contrôle du climat
+Convocation de céleste
+Création de mort-vivant
+Création de nourriture et d'eau
+Création ou destruction d'eau
+Délivrance des malédictions
+Détection de la magie
+Détection du mal et du bien
+Détection du poison et des maladies
+Dissipation de la magie
+Dissipation du mal et du bien
+Divination
+Don des langues
+Éclair traçant
+Esprits gardiens
+Façonnage de la pierre
+Festin des héros
+Flamme éternelle
+Flamme sacrée
+Fléau
+Fléau d'insectes
+Forme éthérée
+Fusion dans la pierre
+Gardien de la foi
+Glas
+Glyphe de protection
+Guérison
+Guérison de groupe
+Immobilisation de personne
+Injonction
+Interdiction
+Invocation de céleste
+Liberté de mouvement
+Lien de protection
+Localisation d'objet
+Localisation de créature
+Lueur d'espoir
+Lumière
+Lumière du jour
+Malédiction
+Marche sur l'eau
+Mort simulée
+Mot de guérison
+Mot de guérison de groupe
+Mot de radiance
+Mot de retour
+Mythes et légendes
+Parole divine
+Portail
+Préservation des morts
+Prière de guérison
+Projection astrale
+Protection contre la mort
+Protection contre le mal et le bien
+Protection contre le poison
+Protection contre une énergie
+Purification de nourriture et d'eau
+Quête
+Rappel à la vie
+Régénération
+Réparation
+Résistance
+Restauration partielle
+Restauration supérieure
+Résurrection
+Résurrection suprême
+Retour à la vie
+Sanctification
+Sanctuaire
+Scrutation
+Sens de l'orientation
+Sens des pièges
+Silence
+Soins
+Soins de groupe
+Stabilisation
+Symbole
+Tempête de feu
+Temple des dieux
+Thaumaturgie
+Transfert de vie
+Tremblement de terre
+Vision suprême
+Voile spirituel
+Zone de vérité
